@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atividade Bimestral</string>
+    <string name="loginTxt">Login</string>
+    <string name="passTxt">Senha</string>
+    <string name="loginBtn">Entrar</string>
+    <string name="loggedIn">Logado</string>
+    <string name="backBtn">Sair</string>
+</resources>
